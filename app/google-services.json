@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "154668216497",
+    "project_id": "proyectoaqui-82561",
+    "storage_bucket": "proyectoaqui-82561.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154668216497:android:c27841c2cc7ae364807290",
+        "android_client_info": {
+          "package_name": "com.example.appdistribuidora"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1Oge_cvNs0jzfoKGK6l9rSb9ATMuKZ5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
